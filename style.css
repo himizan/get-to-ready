@@ -1,0 +1,84 @@
+body{
+  font-family: 'Cabin', sans-serif;
+}
+.get-start{
+  position: absolute;
+  width: 1110px;
+  height: 536px;
+  
+  background: #F8F8F8;
+  border-radius: 20px;
+}
+.get-start h1{
+  position: absolute;
+width: 512px;
+height: 53.6px;
+font-family: 'Droid Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 50px;
+top: 106px;
+left: 397px;
+/* or 100% */
+
+
+color: #0A0839;
+}
+.get-start p{
+  position: absolute;
+width: 676px;
+height: 64.32px;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+top: 191px;
+left: 287px;
+/* or 150% */
+
+text-align: center;
+
+color: #6D6D6D;
+}
+.get-start button{
+position: absolute;
+width: 250px;
+height: 109.55px;
+
+background: #EB4747;
+border-radius: 10px;
+color: #ffff;
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 22px;
+/* or 100% */
+
+
+color: #FFFFFF;
+top: 288px;
+left: 478px;
+}
+.get-start a{
+  position: absolute;
+width: 206px;
+height: 32.16px;
+text-decoration: none;
+
+font-family: 'Cabin';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+top: 397px;
+left: 522px;
+/* or 150% */
+
+text-align: center;
+
+color: #2E2E2E;
+}
